@@ -1,0 +1,22 @@
+{
+  "name": "dependabot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmorgancusick/dependabot-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmorgancusick/dependabot-test/issues"
+  },
+  "homepage": "https://github.com/jmorgancusick/dependabot-test#readme",
+  "dependencies": {
+    "eslint": "^6.8.0"
+  }
+}
