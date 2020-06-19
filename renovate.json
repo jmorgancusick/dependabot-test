@@ -1,5 +1,14 @@
 {
-  "docker": {
-    "pinDigests": true
-  }
+  "extends": [
+    "config:base",
+    "docker:pinDigests"
+  ],
+  "packageRules": [
+    {
+      "datasources": [
+        "npm"
+      ],
+      "enabled": false
+    }
+  ]
 }
