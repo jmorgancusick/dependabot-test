@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jmorgancusick/dependabot-test#readme",
   "dependencies": {
-    "eslint": "^6.8.0"
+    "eslint": "^7.0.0"
   }
 }
