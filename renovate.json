@@ -3,6 +3,9 @@
     "config:base",
     "docker:pinDigests"
   ],
+  "reviewers": [
+    "jmorgancusick"  
+  ],
   "packageRules": [
     {
       "datasources": [
